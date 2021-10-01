@@ -1,6 +1,6 @@
 """
-Author: Alexander Joslin
-GitHub: github.com/echoaj
+Author: Danang haris setiawan
+GitHub: github.com/danangharissetiawan
 
 Explanation:  https://medium.com/@haleesammar/implemented-in-js-dijkstras-2-stack-
               algorithm-for-evaluating-mathematical-expressions-fc0837dae1ea
@@ -29,7 +29,7 @@ RULE 5: When the entire infix expression has been scanned, the value left on
 
 NOTE:   It only works with whole numbers.
 """
-__author__ = "Alexander Joslin"
+__author__ = "Danang haris setiawan"
 
 import operator as op
 
