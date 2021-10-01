@@ -1,6 +1,6 @@
 from .stack import Stack
 
-__author__ = "Omkar Pathak"
+__author__ = "Danang Haris Setiawan"
 
 
 def balanced_parentheses(parentheses):
